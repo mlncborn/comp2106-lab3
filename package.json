@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3 - Node.JS Simple Caculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Honglin Zhao",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
